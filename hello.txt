@@ -16,3 +16,8 @@ let
 switch
 function
 var
+
+var
+let
+const
+function
