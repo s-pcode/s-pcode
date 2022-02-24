@@ -4,3 +4,9 @@ for sri sir
 const
 await continue
 null
+
+class
+function
+var
+break
+switch
