@@ -21,3 +21,9 @@ var
 let
 const
 function
+
+const
+function
+var
+class
+switch
