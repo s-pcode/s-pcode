@@ -38,3 +38,8 @@ var
 function
 new
 class
+
+class
+function
+var
+switch
