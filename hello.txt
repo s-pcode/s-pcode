@@ -32,3 +32,9 @@ Class
 Switch
 Null
 Public
+
+const 
+var
+function
+new
+class
